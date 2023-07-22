@@ -22,6 +22,8 @@ cargo install rusty-redis
 
 ## Usage
 
+**NOTICE: RustyRedis is still under active development and will soon be available.**
+
 ### Running the Redis Server
 
 To run RustyRedis as a Redis server, execute the following command:
