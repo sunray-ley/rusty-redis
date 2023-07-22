@@ -1,0 +1,11 @@
+[package]
+name = "rusty-redis"
+version = "0.1.0"
+edition = "2021"
+description = "RustyRedis is a Redis written in Rust"
+license = "MIT"
+documentation = "https://docs.rs/rusty-redis"
+repository = "https://github.com/sunray-ley/rusty-redis"
+
+[dependencies]
+ferris-says = "0.2"
